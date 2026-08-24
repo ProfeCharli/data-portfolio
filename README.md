@@ -6,11 +6,14 @@ Welcome to my data analytics portfolio! Here I document my journey, projects, an
 
 ---
 
-## 🛠️ Tech Stack & Tools / Tecnologías y Herramientas
+## 🧠 Core Skills & Competencies / Habilidades Clave
 
-* **Languages:** Python 🐍, SQL *(coming soon / próximamente)*
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-* **Tools:** Jupyter Notebooks, VS Code, Git & GitHub, Tableau / Power BI
+* **Data Analysis & Processing:** Exploratory Data Analysis (EDA), Data Cleaning, Outlier Detection, Feature Engineering.
+* **Statistics & Math:** Descriptive & Inferential Statistics, Hypothesis Testing, Correlation Analysis.
+* **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn), SQL.
+* **Data Visualization & BI:** Tableau, Matplotlib, Seaborn, Business Intelligence Dashboards.
+* **Developer Tools:** Git, GitHub, VS Code, Jupyter Notebooks, Conda.
+* **Business Acumen:** Data Storytelling, Translating Insights into Actionable Business Strategies.
 
 ---
 
@@ -27,4 +30,4 @@ Welcome to my data analytics portfolio! Here I document my journey, projects, an
 
 * 🌱 I am continuously expanding my skills in advanced data analytics, statistical modeling, and machine learning.
 * 💡 Passionate about storytelling with data and business intelligence.
-* 📬 Reach out to me: [Your LinkedIn Profile] | [Your Email]
+* 📬 Reach out to me: [https://www.linkedin.com/in/profecharli023/] | [carlossanchez@uas.edu.mx]
