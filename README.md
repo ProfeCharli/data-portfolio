@@ -22,6 +22,7 @@ Welcome to my data analytics portfolio! Here I document my journey, projects, an
 | Project / Proyecto | Description / Descripción | Tech / Tecnologías | Status / Estado |
 | :--- | :--- | :--- | :--- |
 | **[Automatidata](./automatidata-project/)** | Exploratory data analysis, data cleaning, and statistical insights for a fictional transportation client. | Python, Pandas, NumPy, Matplotlib | ✅ Completed / Completado |
+| **[TikTok Project](./tiktok-project/)** | Initial EDA, data inspection, and engagement trend analysis comparing claims and opinions. | Python, Pandas, NumPy | ✅ Completed / Completado |
 | *Upcoming Project* | *Next challenge coming soon...* | *TBD* | 🔄 In Progress / En curso |
 
 ---
@@ -30,4 +31,4 @@ Welcome to my data analytics portfolio! Here I document my journey, projects, an
 
 * 🌱 I am continuously expanding my skills in advanced data analytics, statistical modeling, and machine learning.
 * 💡 Passionate about storytelling with data and business intelligence.
-* 📬 Reach out to me: [https://www.linkedin.com/in/profecharli023/] | [carlossanchez@uas.edu.mx]
+* 📬 Reach out to me: [LinkedIn](https://www.linkedin.com/in/profecharli023/) | [Email](mailto:carlossanchez@uas.edu.mx)
